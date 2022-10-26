@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Polyglot
+# Paul-Driving-school
 This project is a very basic website that shows my skills in using HTML, CSS AND JS without using any framework to develop a static page
 
-> Polyglot
+> Paul-Driving-school
 > This is a project based on a brand called "Polyglot School". All contents and name of brand were created by me.
 
 ## Built With
@@ -14,7 +14,7 @@ This project is a very basic website that shows my skills in using HTML, CSS AND
 
 ## Live Demo
 
-[Live Demo Link](https://jonathanmunamire.github.io/Polyglot/)
+[Live Demo Link](https://github.com/bertinkambale/Driving-school-capstone/tree/feature_branch)
 
 ## Loom link
 
@@ -41,9 +41,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@jonathanmunamire](https://github.com/jonathanmunamire)
-- Gmail: [jonathanmunamire](jonathanmunamire@gmail.com)
-- LinkedIn: [Jonathan Munamire](https://www.linkedin.com/in/jonathan-munamire-350599225/)
+- GitHub: [bertinkambale](https://github.com/bertinkambale)
+- Gmail: [bertinkambale](bertinkambale@gmail.com)
+
 
 Contributions, issues, and feature requests are welcome !
 
