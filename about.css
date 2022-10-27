@@ -45,7 +45,7 @@ body {
 
 .menu {
   display: flex;
-  gap: 50%;
+  gap: 30%;
 }
 
 .hamburger {
