@@ -239,6 +239,7 @@ body {
 .card2 div h5 {
   color: rgb(250, 46, 46);
   font-size: 14px;
+  font-style: italic;
 }
 
 .card2 div p {
@@ -502,14 +503,17 @@ body {
   }
 
   .card1 h3 {
-    color: rgb(250, 46, 46);
+    color: #EC5242;
     height: 10%;
     font-size: 15px;
+    width:30%;
   }
 
   .card1 p {
     color: #fff;
     font-size: 12px;
+    width:80%;
+    text-align: start;
   }
 
   .service-foot {
