@@ -14,11 +14,11 @@ This project is a very basic website that shows my skills in using HTML, CSS AND
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/bertinkambale/Driving-school-capstone/tree/feature_branch)
+[Live Demo Link](https://bertinkambale.github.io/Driving-school-capstone/)
 
 ## Loom link
 
-[Loom link](https://www.loom.com/share/a416abdd6e8547a389c19b11e6727fd4)
+[Loom link]()
 
 ## Getting Started
 
