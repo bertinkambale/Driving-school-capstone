@@ -503,16 +503,16 @@ body {
   }
 
   .card1 h3 {
-    color: #EC5242;
+    color: #ec5242;
     height: 10%;
     font-size: 15px;
-    width:30%;
+    width: 30%;
   }
 
   .card1 p {
     color: #fff;
     font-size: 12px;
-    width:80%;
+    width: 80%;
     text-align: start;
   }
 
