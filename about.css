@@ -30,7 +30,7 @@ body {
   align-items: center;
   height: 10vh;
   background-color: #fff;
-  gap: 10%;
+  gap: 32%;
 }
 
 .header2 a {
@@ -45,7 +45,7 @@ body {
 
 .menu {
   display: flex;
-  gap: 30%;
+  gap: 60%;
 }
 
 .hamburger {
