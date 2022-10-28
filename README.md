@@ -18,7 +18,7 @@ This project is a very basic website that shows my skills in using HTML, CSS AND
 
 ## Loom link
 
-[Loom link]()
+[Loom link](https://www.loom.com/share/c3d1132f8c98432b897e32b2ba620170)
 
 ## Getting Started
 
